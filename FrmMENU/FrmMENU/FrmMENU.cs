@@ -42,8 +42,8 @@ namespace FrmMENU
         private void generarReservaToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
-            //FrmRESERVA Ventana = new FrmRESERVA();
-            //Ventana.Show();
+            FrmRESERVA Ventana = new FrmRESERVA();
+            Ventana.Show();
 
         }
 
