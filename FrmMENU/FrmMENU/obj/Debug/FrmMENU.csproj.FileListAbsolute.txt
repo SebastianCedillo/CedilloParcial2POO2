@@ -1,0 +1,13 @@
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.exe.config
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.exe
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.pdb
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csprojResolveAssemblyReference.cache
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmCLIENTE.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmHABITACION.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmHOTEL.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmMENU.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmRESERVA.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.Properties.Resources.resources
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csproj.GenerateResource.Cache
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.exe
+C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.pdb
