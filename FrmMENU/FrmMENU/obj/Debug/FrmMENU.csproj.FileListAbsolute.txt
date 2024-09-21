@@ -11,3 +11,17 @@ C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.Properties.Reso
 C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csproj.GenerateResource.Cache
 C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.exe
 C:\Users\star\Desktop\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.pdb
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.exe.config
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.exe
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\bin\Debug\FrmMENU.pdb
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csproj.AssemblyReference.cache
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmCLIENTE.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmHABITACION.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmHOTEL.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmMENU.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.FrmRESERVA.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.Properties.Resources.resources
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csproj.GenerateResource.cache
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.csproj.CoreCompileInputs.cache
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.exe
+D:\RepositoriosC#\C# HOTEL\FrmMENU\FrmMENU\obj\Debug\FrmMENU.pdb

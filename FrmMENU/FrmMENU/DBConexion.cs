@@ -14,7 +14,7 @@ namespace FrmMENU
         public DBConexion()
         {
 
-            connectionString = "Data Source=PC01125858;Initial Catalog=BDHotel;Integrated Security=True;";
+            connectionString = "Server=DESKTOP-0OS6OUS;Database=BDHOTEL;User Id=sa;Password=SebastianCedillo9;";
         }
 
         public SqlConnection GetConnection()

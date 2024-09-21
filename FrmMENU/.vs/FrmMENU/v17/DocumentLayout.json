@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\frmreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\frmreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\daohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\daohabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|d:\\repositoriosc#\\c# hotel\\frmmenu\\frmmenu\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0906A125-69A4-4E3C-9E3B-3F90EAEF40C1}|FrmMENU\\FrmMENU.csproj|solutionrelative:frmmenu\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConexion.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DBConexion.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\DBConexion.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DBConexion.cs",
+              "RelativeToolTip": "FrmMENU\\DBConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:45:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMENU.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\FrmMENU.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\FrmMENU.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\FrmMENU.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmMENU\\FrmMENU.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:44:30.458Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRESERVA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\FrmRESERVA.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\FrmRESERVA.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\FrmRESERVA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmMENU\\FrmRESERVA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:44:28.976Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Hotel.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\Hotel.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Hotel.cs",
+              "RelativeToolTip": "FrmMENU\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:44:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Habitacion.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\Habitacion.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Habitacion.cs",
+              "RelativeToolTip": "FrmMENU\\Habitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:44:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAOHabitacion.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DAOHabitacion.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\DAOHabitacion.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DAOHabitacion.cs",
+              "RelativeToolTip": "FrmMENU\\DAOHabitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:44:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOCliente.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DAOCliente.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\DAOCliente.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\DAOCliente.cs",
+              "RelativeToolTip": "FrmMENU\\DAOCliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:41:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Cliente.cs",
+              "RelativeDocumentMoniker": "FrmMENU\\Cliente.cs",
+              "ToolTip": "D:\\RepositoriosC#\\C# HOTEL\\FrmMENU\\FrmMENU\\Cliente.cs",
+              "RelativeToolTip": "FrmMENU\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:41:50.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
